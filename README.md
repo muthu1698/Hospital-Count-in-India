@@ -1,6 +1,6 @@
 # Hospital-Count-in-India
 
-This Dataset consist of hospitals count in India by Statewise. This Dataset is obtained from various sources.
+This Dataset consist of hospitals count in India by Statewise. This Dataset is obtained from various sources. This data set can be found in Kaggle and the like is https://www.kaggle.com/gokulprakash22/hospitals-count-in-india-statewise/notebooks
 
 ### Content
 This Dataset consist of 4 columns  
